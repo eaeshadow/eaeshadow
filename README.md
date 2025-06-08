@@ -32,7 +32,7 @@ Sou um entusiasta da tecnologia com 19 anos, apaixonado por desenvolvimento web 
 ## 📄 Currículo
 
 Confira meu currículo em português e inglês:  
-📄 [Feh-Curriculo-CV](https://github.com/eaeshadow/Feh-Curriculo-CV)
+📄 [Feh Curriculo/CV](https://github.com/eaeshadow/-Feh-Curriculo-CV)
 
 ---
 
